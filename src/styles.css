@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.quote-card {
+  background-color: antiquewhite;
+  border-radius: 20px;
+}
+.quote-card h2 {
+  color: chocolate;
+  font-size: 36px;
+  padding-top: 1.5rem;
+}
+
+.advice {
+  border-radius: 15px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 20px;
+  padding-left: 20px;
+  background-color: rgb(156, 236, 226);
+}
+.quote-card button {
+  padding: 5px;
+  background-color: rgb(233, 170, 125);
+  border-radius: 5px;
+}
